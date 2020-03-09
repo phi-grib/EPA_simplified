@@ -1,1 +1,1 @@
-EPA code for CAS structural extraction
+EPA code for CAS structure resolution
